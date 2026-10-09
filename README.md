@@ -1,7 +1,7 @@
 # Crypto-Toolkit
 # Crypto Toolkit
 
-Crypto Toolkit is a modern desktop application built with Python and CustomTkinter that provides a collection of useful cryptography tools in a clean and user-friendly interface.
+Crypto Toolkit is a modern desktop application built with Python and CustomTkinter that provides a collection of useful cryptography tools in a clean and user-friendly interface. In the code I have also added sections so if u want to change anything you can change it easily.
 
 ## Features
 
